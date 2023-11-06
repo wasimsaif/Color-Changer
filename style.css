@@ -1,0 +1,40 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.box{
+    /* display: flex; */
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin-top: 80px;
+    gap: 20px;
+}
+h1{
+    font-size: 50px;
+
+}
+.button{
+    height: 80px;
+    width: 80px;
+    /* background-color: red; */
+    display: inline-block;
+    text-align: center;
+    justify-content: center;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+#grey{
+    background-color: grey;
+}
+#blue{
+background-color: blue;
+}
+#red
+{
+background-color: red;
+}
+#yellow{
+background-color: yellow;
+}
